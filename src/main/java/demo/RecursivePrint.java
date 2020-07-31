@@ -6,7 +6,7 @@ public class RecursivePrint {
 
 	public static void main(String[] args) {
 
-		String str = "abc";
+		String str = "Hello";
 		recPrint(str);
 	}
 
